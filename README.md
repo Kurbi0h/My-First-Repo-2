@@ -1,4 +1,4 @@
-# My-First-Repo-2
+# My-First-Repo
 My First GitHub Repo
 
 Hello! My name is [Misael], and this is my first Github repository. Im learning Git and Github for version control.
